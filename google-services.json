@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202281058093",
+    "project_id": "ocr-to-translate",
+    "storage_bucket": "ocr-to-translate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202281058093:android:7557e8fcb585fd3fd19da4",
+        "android_client_info": {
+          "package_name": "com.kutir.ocrToTranslate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4EWAtjA15w6oVkQx4jEI3rj_-VvmKT4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
